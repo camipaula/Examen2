@@ -1,5 +1,6 @@
 public class Plato{ //implements Comparable<Plato>{
     private String nombre;
+    //new comment
     private double precio;
     private double valorCalórico;
     private int tiempoDePreparación;
